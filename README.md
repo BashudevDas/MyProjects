@@ -1,2 +1,0 @@
-# MyProjects
-Projects for resume
